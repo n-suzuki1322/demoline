@@ -1,0 +1,18 @@
+{
+  "name": "demoline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^7.5.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0",
+    "ngrok": "^4.3.1",
+    "node": "^17.7.2"
+  }
+}
